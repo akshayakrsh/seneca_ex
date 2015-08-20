@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lordakshaya/seneca_ex#readme",
   "dependencies": {
-    "seneca": "^0.6.4"
+    "seneca": "^0.6.4",
+    "seneca-redis-transport": "^0.3.0"
   }
 }
