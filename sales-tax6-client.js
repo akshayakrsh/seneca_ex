@@ -1,4 +1,5 @@
 var seneca = require('seneca')()
+  .use('redis-transport')
   .client({type: 'redis'});
 
 seneca.act({
