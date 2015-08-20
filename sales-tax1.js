@@ -20,10 +20,7 @@ seneca.add({
         net: msg.net,
         rate: 50
       },
-      function (err, result) {
-        respond(err, result)
-      })
-
+      respond)
   });
 
 
