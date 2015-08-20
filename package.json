@@ -18,6 +18,7 @@
   "homepage": "https://github.com/lordakshaya/seneca_ex#readme",
   "dependencies": {
     "seneca": "^0.6.4",
+    "seneca-beanstalk-transport": "^0.2.1",
     "seneca-redis-transport": "^0.3.0"
   }
 }
